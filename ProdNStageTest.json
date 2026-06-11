@@ -1,14 +1,6 @@
 {
   "apollo": {
     "baseUrl": "https://gateway.irc.gov.kh/graphql"
-    //"ios": {
-      //"1.0.4": "https://dust2.irc.gov.kh/graphql"
-    //},
-    //"android": {
-      //"1.0.4": "https://dust2.irc.gov.kh/graphql"
-    //},
-    //"huawei": {
-      //"1.0.4": "https://dust2.irc.gov.kh/graphql"
-    //}
+    
   }
 }
