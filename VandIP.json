@@ -2,6 +2,9 @@
   "ios": {
     "latestVersion": "1.0.0",
     "minSupportedVersion": "1.0.0",
+    "isDev":true,
+    "notDevCurrentAPIVersion":"1.0.0",
+    "ProdVersion":"2.0.0",
     "updateMessageEn": "A new version of our iOS app is available. Update now for improved performance and new features.",
     "updateMessageKh": "áž€áŸ†ážŽáŸ‚ážáŸ’áž˜áž¸áž“áŸƒáž€áž˜áŸ’áž˜ážœáž·áž’áž¸ iOS ážšáž”ážŸáŸ‹áž™áž¾áž„áž˜áž¶áž“áž áž¾áž™áŸ” áž’áŸ’ážœáž¾áž”áž…áŸ’áž…áž»áž”áŸ’áž”áž“áŸ’áž“áž—áž¶áž–áž¥áž¡áž¼ážœáž“áŸáŸ‡ážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšáž”áŸ’ážšážŸáž¾ážšáž¡áž¾áž„ áž“áž·áž„áž˜áž»ážáž„áž¶ážšážáŸ’áž˜áž¸áŸ—áŸ”",
     "storeLink": "https://apps.apple.com/app/id123456789"
@@ -9,6 +12,9 @@
   "android": {
     "latestVersion": "1.0.0",
     "minSupportedVersion": "1.0.0",
+    "isDev":true,
+    "notDevCurrentAPIVersion":"1.0.0",
+    "ProdVersion":"2.0.0",
     "updateMessageEn": "A new Android update is available with important fixes and improvements.",
     "updateMessageKh": "A new Android update is available with important fixes and improvements.",
     "storeLink": "https://play.google.com/store/apps/details?id=com.yourapp"
@@ -16,6 +22,9 @@
   "huawei": {
     "latestVersion": "1.0.0",
     "minSupportedVersion": "1.0.0",
+    "isDev":true,
+    "notDevCurrentAPIVersion":"1.0.0",
+    "ProdVersion":"2.0.0",
     "updateMessageEn": "New Huawei AppGallery version available. Update now for smoother performance.",
     "updateMessageKh": "New Huawei AppGallery version available. Update now for smoother performance.",
     "storeLink": "https://appgallery.huawei.com/app/C123456"
